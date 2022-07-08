@@ -3,4 +3,4 @@
 echo "Hello"
 echo $(date)
 
-Echo "Time has come"
+echo $USER
